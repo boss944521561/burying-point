@@ -1,0 +1,1 @@
+## [1.0.0](https://github.com/boss944521561/burying-point) (2021-01-13)

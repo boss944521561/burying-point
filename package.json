@@ -1,0 +1,11 @@
+{
+  "name": "burying-point",
+  "version": "1.0.0",
+  "description": "Automatically count page click events",
+  "main": "buryingPoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mason",
+  "license": "ISC"
+}
